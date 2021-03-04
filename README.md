@@ -1,6 +1,7 @@
-﻿#
+#
 #### ffmpeg
 ```
+https://github.com/FFmpeg/FFmpeg/tags
 https://github.com/tanersener/mobile-ffmpeg
 https://github.com/Javernaut/ffmpeg-android-maker
 
