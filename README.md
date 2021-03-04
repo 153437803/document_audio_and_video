@@ -8,6 +8,10 @@ https://developer.android.google.cn/ndk/guides/cpu-features.html?hl=zh-cn
 #
 #### ffmpeg
 ```
+build:
+https://www.jianshu.com/p/7fcaeff67975
+
+download:
 https://github.com/FFmpeg/FFmpeg/tags
 https://github.com/tanersener/mobile-ffmpeg
 ```
