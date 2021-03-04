@@ -25,5 +25,5 @@ https://github.com/yangkun19921001/AVFFmpegLib
 #### document
 ```
 https://github.com/yangkun19921001/AVSample
-
+https://github.com/ChenLittlePing/LearningVideo
 ```
