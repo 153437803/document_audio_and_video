@@ -1,4 +1,11 @@
 #
+#### cpu_features
+```
+https://github.com/google/cpu_features
+https://developer.android.google.cn/ndk/guides/cpu-features.html?hl=zh-cn
+```
+
+#
 #### ffmpeg
 ```
 https://github.com/FFmpeg/FFmpeg/tags
