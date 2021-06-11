@@ -37,7 +37,7 @@ https://github.com/ChenLittlePing/LearningVideo
 ```
 
 # 
-#### opencv_build
+#### cmake_build_opencv_command
 ```
 cmake -DCMAKE_INSTALL_PREFIX=/home/kalu/Downloads/opencv-4.5.2 \
 -DCMAKE_BUILD_TYPE=Release \
